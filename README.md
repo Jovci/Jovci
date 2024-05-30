@@ -85,8 +85,8 @@
   </tr>
    <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Heroku.svg" width="48" height="48" alt="Heroku" />
+      <br>Heroku
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
@@ -97,16 +97,16 @@
       <br>Linux
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Firebase-Dark.svg" width="48" height="48" alt="dart" />
+      <br>Firebase
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-      <br>RabbitMQ
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="dart" />
+      <br>AWS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
-      <br>sentry
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DiscordBots.svg" width="48" height="48" alt="dart" />
+      <br>DiscordBots
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="dart" />
