@@ -1,5 +1,5 @@
 
-> Hi, My name is John. Im currently a full-time student at California State University, Fullerton. As an aspiring Computer Science student with a solid foundation in technical and non-technical domains, I bring a versatile skill set and a passion for problem-solving to every project I'm involved in. Currently pursuing a Bachelor of Science in Computer Science at California State University Fullerton, I have refined my skills in programming languages such as Python, JavaScript, C++, and SQL. I am proficient with AWS, REST APIs, and cloud deployment platforms.
+> Hi, My name is John. Im currently a full-time student at California State University, Fullerton. As an aspiring Computer Science student with a solid foundation in technical and non-technical domains, I bring a versatile skill set and a passion for problem-solving to every project I'm involved in. Currently pursuing a Bachelor of Science in Computer Science at California State University Fullerton, I have refined my skills in programming languages such as Python, JavaScript, C++, and SQL. I am familiar with many frameworks such as Django, Flask, Pandas, React, PyTorch, Scikit-learn, AWS, Git, MySQL, and Node.js.
 
 
 
