@@ -1,5 +1,5 @@
 
-> Hey, I'm John. Currently, I am a senior at California State University, Fullerton. I contribute to a team with my wide set of skills and passion for problem-solving. I am proficient in languages such as Python, JavaScript, C++, SQL, and Node.js. Additionally, I am familiar with frameworks like Django, Flask, Pandas, React, PyTorch, Scikit-learn, AWS, and MySQL
+> Hey, I'm John. Currently, I am a senior at California State University, Fullerton. I'm looking to contribute to a team with my wide set of skills and passion for problem-solving. I am proficient in languages such as Python, JavaScript, C++, SQL, and Node.js. Additionally, I am familiar with frameworks like Django, Flask, Pandas, React, PyTorch, Scikit-learn, AWS, and MySQL
 
 
 <table>
