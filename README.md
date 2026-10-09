@@ -48,7 +48,6 @@ Computer Science grad (CSU Fullerton) focused on AI/ML engineering - building LL
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
----
 
 ## Recent Works
 
