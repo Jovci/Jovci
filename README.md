@@ -28,6 +28,8 @@ Computer Science grad (CSU Fullerton) focused on AI/ML engineering - building LL
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6E56CF?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-1A1A2E?style=flat-square)
 
 **Backend & Web**
 
