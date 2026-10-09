@@ -50,7 +50,7 @@ Computer Science grad (CSU Fullerton) focused on AI/ML engineering - building LL
 ---
 ---
 
-## Selected Work
+## Recent Works
 
 
 **Plant Doctor - Multimodal Plant Health Agent**
